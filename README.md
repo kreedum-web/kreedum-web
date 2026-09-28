@@ -5,9 +5,7 @@
 <p align="center">
 
 ![Website](https://img.shields.io/badge/Website-kreedum.com-2C62E0?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Vite-blue?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge)
+
 
 </p>
 
